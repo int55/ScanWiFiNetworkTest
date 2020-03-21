@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WIFIScannerTest</string>
+    <string name="search_wifi">Search WIFI</string>
+</resources>
